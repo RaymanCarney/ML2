@@ -1,15 +1,20 @@
 {
     "name": "ml2",
     "version": "1.0.0",
+    "private": true,
     "dependencies": {
-        "@testing-library/jest-dom": "^5.17.0",
-        "@testing-library/react": "^13.4.0",
-        "@testing-library/user-event": "^13.5.0",
-        "react": "^0.0.0-experimental-6fb39ec9e9-20240621",
-        "react-dom": "^0.0.0-experimental-6fb39ec9e9-20240621",
-        "react-router-dom": "^6.23.1",
-        "react-scripts": "5.0.1",
-        "web-vitals": "^2.1.4"
+        "@testing-library/jest-dom": "^5.12.0",
+        "@testing-library/react": "^11.2.6",
+        "@testing-library/user-event": "^12.8.3",
+        "@types/jest": "^28.1.3",
+        "@types/node": "^18.0.0",
+        "@types/react": "^18.0.14",
+        "@types/react-dom": "^18.0.5",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-scripts": "4.0.3",
+        "typescript": "^4.7.4",
+        "web-vitals": "^1.1.1"
     },
     "scripts": {
         "start": "react-scripts start",
